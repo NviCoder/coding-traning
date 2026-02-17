@@ -1,3 +1,5 @@
+// https://leetcode.com/problems/decode-string/?envType=problem-list-v2&envId=55vr69d7
+
 function decodeString(s: string): string {
     const stackNum: number[] = []; 
     const stackStr: string[] = [];
